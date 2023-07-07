@@ -1,0 +1,91 @@
+/* Styling index.html */
+
+.bg-corf {  
+  background-color: #006994 !important;
+}
+
+.navbar {
+  border-bottom: 3px solid #762124;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  background-color: #006994 !important;
+  color: white !important;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  background-color: white !important;
+  color: #006994 !important;
+  font-size: 1.2rem !important;
+}
+
+.dropdown-item:hover {
+  background-color: #006994;
+  color: white;
+}
+
+header {
+  background-image: url(../img/header.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.main p {
+  text-align: justify;
+}
+
+.line {
+  color: #006994;
+}
+
+.album {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.card {
+  border: none;
+}
+
+.card-title a {
+  text-decoration: none;
+}
+
+.card-img {
+  height: 250px;
+  border-radius: 5%;
+}
+
+footer {
+  background-color: #222525;  
+}
+
+.social a {
+  color: white;
+  font-size: 1.5rem;
+  letter-spacing: 5px;
+}
+
+/* Styling info.html  (Πληροφορίες) */
+.info {
+  margin-top: 100px;
+  padding-top: 20px;
+}
+
+/* Styling howtocome.html (Πως να φτάσετε στο νησί)*/
+.directions {
+  margin-top: 100px;
+  padding-top: 20px;
+}
